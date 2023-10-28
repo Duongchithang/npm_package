@@ -1,0 +1,11 @@
+{
+  "name": "test-npm-bundle",
+  "version": "1.0.0",
+  "description": "the first time do it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chithang0210 <chithang0210@gmail.com>",
+  "license": "ISC"
+}
